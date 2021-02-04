@@ -191,7 +191,12 @@ footer{
   background: #303030;
   color: #ffffff;
 }
-
+.productPicture{
+  display: flex;
+  justify-content: space-around;
+}
+.productInfo{
+}
 .copyright{
   text-align: center;
 }
@@ -215,6 +220,10 @@ footer{
   }
   .hidden-on-sm{
     display: none;
+  }
+  .productInfo{
+    display: flex;
+    flex-direction: column;
   }
 }
 
