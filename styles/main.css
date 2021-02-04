@@ -181,7 +181,9 @@ button:hover{
 .description{
   flex: 1;
 }
-
+th{
+  border-bottom: solid;
+}
 footer{
   padding: 1em;
   background: #303030;
