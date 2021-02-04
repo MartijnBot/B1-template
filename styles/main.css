@@ -70,7 +70,7 @@ main{
   padding: 1em;
 }
 .row, .row2{
-  display: flex;
+  display: flex; 
 }
 
 table{
