@@ -78,6 +78,16 @@ table{
   width: 100%;
   border-collapse: collapse;
 }
+.emphasize{
+
+  border-left: 5px solid #27AE60;
+  box-shadow: #27AE60 1px 0 5px;
+}
+.emphasize h2{
+  margin: 0 auto;
+  border: none;
+  text-align: center;
+}
 
 table th{
   text-align: start;
@@ -152,6 +162,7 @@ button{
   border: 2px solid #FCFCFC;
   color: #000000;
   font-weight: bold;
+  margin-bottom: 40px;
 }
 
 .payment-option{
