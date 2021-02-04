@@ -80,13 +80,13 @@ table{
 }
 .emphasize{
 
-  border-left: 5px solid #27AE60;
-  box-shadow: #27AE60 1px 0 5px;
+  border-left: 5px solid #27AE60; 
+  box-shadow: #27AE60 1px 0 5px; 
 }
-.emphasize h2{
-  margin: 0 auto;
-  border: none;
-  text-align: center;
+.emphasize h2{ 
+  margin: 0 auto; 
+  border: none; 
+  text-align: center; 
 }
 
 table th{
